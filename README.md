@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SarkarRjx1999
-- 👀 I’m interested in getting Hired
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on Front-end
+- 👀 ReactJs Developer @CelebalTechnologies
 - 📫 How to reach me rhituraj1999@gmail.com
 
 <!---
